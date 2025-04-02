@@ -18,9 +18,8 @@ My Project is a Python-based tool that utilizes the Groq API to analyze director
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/my-project.git`
-2. Navigate to the project directory: `cd my-project`
-3. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/vinitsolanki-2004/README_Generator.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
 
 **Usage**
 -----
@@ -53,7 +52,7 @@ To use the project, follow these steps:
 
 Contributions are welcome! To contribute to the project, follow these steps:
 
-1. Fork the repository: `git fork https://github.com/your-username/my-project.git`
+1. Fork the repository: `git fork https://github.com/vinitsolanki-2004/README_Generator.git`
 2. Create a new branch: `git branch feature/new-feature`
 3. Make changes and commit them: `git commit -m "Added new feature"`
 4. Create a pull request: `git push origin feature/new-feature`
