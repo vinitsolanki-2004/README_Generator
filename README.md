@@ -1,6 +1,4 @@
-Here is a comprehensive README.md file for the project:
-
-**My Project**
+**README GENERATOR**
 ================
 
 **Project Description**
@@ -92,4 +90,3 @@ class GroqReadmeGenerator:
         }
         self.model = "llama3-70b-8192"  # Default Groq model
 ```
-Note: This README.md file is generated using the Groq API and may require modifications to fit your specific project needs.
